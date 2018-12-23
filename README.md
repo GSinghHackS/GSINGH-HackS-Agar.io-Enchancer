@@ -1,11 +1,14 @@
-# ZeachCobbler
-## What is Zeach Cobbler?
-ZeachCobbler is a mod for the web game Agario ( http://agar.io ) It included several unique features found in no other mods. Please note that the Agario community at large considers many of the features contained in this mod hacks or cheats as it could be argued that they give you an unfair advantage over others.
+# GSINGH-Enchancer
 
-Zeach Cobbler also includes a bot we like to call the "grazer" which helps with the grunt work of collecting food pellets in the early game. 
+# Created By HappyGamer360YT
+
+## What is GSINGH-Enchancer?
+GSINGH-Enchancer is a mod for the web game Agario ( http://agar.io ) It included several unique features found in no other mods. Please note that the Agario community at large considers many of the features contained in this mod hacks or cheats as it could be argued that they give you an unfair advantage over others.
+
+GSINGH-Enchancer also includes a bot we like to call the "grazer" which helps with the grunt work of collecting food pellets in the early game. 
 
 ## Install instructions:
-**Note: Zeach Cobbler is currently for Chrome Only. It does not work with Firefox+Greasemonkey.**
+**Note: GSINGH-Enchancer is currently for Chrome Only. It does not work with Firefox+Greasemonkey.**
 
 1) Install TamperMonkey addon for Chrome 
 * https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
